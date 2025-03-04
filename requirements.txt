@@ -1,5 +1,5 @@
 requests
-import os
+os
 random
 from pillow import Image, ImageDraw, ImageFont, ImageEnhance
 rembg
