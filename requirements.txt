@@ -1,10 +1,10 @@
+import requests
 import os
 import random
-import requests
 from PIL import Image, ImageDraw, ImageFont, ImageEnhance
-import replicate
 import rembg
 from pyrogram import Client, filters
+import replicate
 
 # 🔹 API KEYS SETUP
 REPLICATE_API_TOKEN = "r8_bUsYZyxQZS6r8WvqzYQ98qu9my842KG08X8FS"
